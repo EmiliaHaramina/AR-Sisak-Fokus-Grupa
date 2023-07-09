@@ -8,6 +8,7 @@ public class ButtonScript : MonoBehaviour
     // Start is called before the first frame update
     [SerializeField] List<Button> btnList;
     [SerializeField] List<GameObject> dialogList;
+    [SerializeField] GameManager gameManager;
 
     private int ind;
 
@@ -31,9 +32,31 @@ public class ButtonScript : MonoBehaviour
     
     }
 
+    public void SetLastButton()
+    {
+        gameManager.SetLastButton(this);
+    }
+
+    public void HideLastDialogue()
+    {
+        gameManager.HideLastAnswerDialogue();
+    }
+
     public void colorButton()
     {
         this.GetComponent<Image>().color = Color.green;
+    }
+
+    public void DisableHighlight()
+    {
+        Debug.Log("Hi");
+        this.gameObject.transform.GetChild(0).gameObject.GetComponent<Text>().fontStyle = FontStyle.Normal;
+    }
+
+    public void EnableHighlight()
+    {
+        Debug.Log("Bye");
+        this.gameObject.transform.GetChild(0).gameObject.GetComponent<Text>().fontStyle = FontStyle.Bold;
     }
 
 }

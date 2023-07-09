@@ -6,6 +6,9 @@ using UnityEngine;
 public class GameManager : MonoBehaviour
 {
     private int questionNumber;
+    private int lastQuestionNumber;
+
+    private ButtonScript lastButton;
 
     private GameObject currentChat;
 
@@ -26,6 +29,14 @@ public class GameManager : MonoBehaviour
         currentChat = chat;
     }
 
+    public void HideLastAnswerDialogue()
+    {
+        if(currentChat != null && questionNumber != lastQuestionNumber) 
+        {
+            currentChat.SetActive(false);
+        }
+    }
+
     public void hideLastChat()
     {
         if(currentChat != null) 
@@ -36,12 +47,23 @@ public class GameManager : MonoBehaviour
 
     public void setQuestionNumber(int number)
     {
+        lastQuestionNumber = questionNumber;
         questionNumber = number;
     }
 
     public int getQuestionNumber()
     {
         return questionNumber;
+    }
+
+    public void SetLastButton(ButtonScript button)
+    {
+        if (lastButton != null)
+        {
+            lastButton.DisableHighlight();
+        }
+        lastButton = button;
+        lastButton.EnableHighlight();
     }
 
 }
