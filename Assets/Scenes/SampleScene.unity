@@ -2253,8 +2253,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Bi li vas umjetni\u010Dki stil igre privukao da kupite ili preuzmete igru
-    s Interneta?"
+  m_Text: "Bi li vas umjetni\u010Dki stil igre privukao da kupite igru?"
 --- !u!222 &477017671
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -6296,8 +6295,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Osje\u0107ate li se dovoljno vje\u0161to za izvr\u0161avanje zadataka
-    tra\u017Eenih u igri?"
+  m_Text: "Osje\u0107ate li se dovoljno vje\u0161to za izvr\u0161avanje zadataka?"
 --- !u!222 &1264682553
 CanvasRenderer:
   m_ObjectHideFlags: 0
