@@ -1182,7 +1182,7 @@ PrefabInstance:
     - target: {fileID: 535787684887862686, guid: 33474e44ccc335e49b18193327a9a608,
         type: 3}
       propertyPath: m_RootOrder
-      value: 15
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 535787684887862686, guid: 33474e44ccc335e49b18193327a9a608,
         type: 3}
@@ -1302,7 +1302,7 @@ PrefabInstance:
     - target: {fileID: 535787686519203770, guid: 33474e44ccc335e49b18193327a9a608,
         type: 3}
       propertyPath: m_text
-      value: Nemam posebni dio koji mi je bio najzanimljiviji.
+      value: "Imam isto mi\u0161ljenje kao Jadranka."
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 33474e44ccc335e49b18193327a9a608, type: 3}
@@ -2167,7 +2167,7 @@ PrefabInstance:
     - target: {fileID: 535787686519203770, guid: 33474e44ccc335e49b18193327a9a608,
         type: 3}
       propertyPath: m_text
-      value: "Prikaz glavnog lika savr\u0161eno se uklapa u igru."
+      value: "Slo\u017Eila bih se s Leovim odgovorom."
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 33474e44ccc335e49b18193327a9a608, type: 3}
@@ -3784,7 +3784,7 @@ PrefabInstance:
     - target: {fileID: 535787684887862686, guid: 33474e44ccc335e49b18193327a9a608,
         type: 3}
       propertyPath: m_RootOrder
-      value: 16
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 535787684887862686, guid: 33474e44ccc335e49b18193327a9a608,
         type: 3}
@@ -4033,7 +4033,7 @@ PrefabInstance:
     - target: {fileID: 535787684887862686, guid: 33474e44ccc335e49b18193327a9a608,
         type: 3}
       propertyPath: m_RootOrder
-      value: 14
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 535787684887862686, guid: 33474e44ccc335e49b18193327a9a608,
         type: 3}
@@ -5526,17 +5526,18 @@ PrefabInstance:
     - target: {fileID: 535787686519203770, guid: 33474e44ccc335e49b18193327a9a608,
         type: 3}
       propertyPath: m_text
-      value: "Da, smanjio sam te\u017Einu igre kako bih ju uspio odigrati do kraja."
+      value: "Da, smanjio sam te\u017Einu igre kao i Leo kako bih ju uspio odigrati
+        do kraja."
       objectReference: {fileID: 0}
     - target: {fileID: 535787686519203770, guid: 33474e44ccc335e49b18193327a9a608,
         type: 3}
       propertyPath: m_fontSize
-      value: 20
+      value: 18
       objectReference: {fileID: 0}
     - target: {fileID: 535787686519203770, guid: 33474e44ccc335e49b18193327a9a608,
         type: 3}
       propertyPath: m_fontSizeBase
-      value: 20
+      value: 18
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 33474e44ccc335e49b18193327a9a608, type: 3}
@@ -5576,7 +5577,7 @@ PrefabInstance:
     - target: {fileID: 535787684887862686, guid: 33474e44ccc335e49b18193327a9a608,
         type: 3}
       propertyPath: m_RootOrder
-      value: 9
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 535787684887862686, guid: 33474e44ccc335e49b18193327a9a608,
         type: 3}
@@ -6078,7 +6079,7 @@ PrefabInstance:
     - target: {fileID: 535787684887862686, guid: 33474e44ccc335e49b18193327a9a608,
         type: 3}
       propertyPath: m_RootOrder
-      value: 10
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 535787684887862686, guid: 33474e44ccc335e49b18193327a9a608,
         type: 3}
@@ -7535,7 +7536,7 @@ PrefabInstance:
     - target: {fileID: 535787684887862686, guid: 33474e44ccc335e49b18193327a9a608,
         type: 3}
       propertyPath: m_RootOrder
-      value: 17
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 535787684887862686, guid: 33474e44ccc335e49b18193327a9a608,
         type: 3}
@@ -7655,7 +7656,7 @@ PrefabInstance:
     - target: {fileID: 535787686519203770, guid: 33474e44ccc335e49b18193327a9a608,
         type: 3}
       propertyPath: m_text
-      value: "Svakako, umjetni\u010Dki stil je predivan."
+      value: "U potpunosti se sla\u017Eem s Anom."
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 33474e44ccc335e49b18193327a9a608, type: 3}
@@ -8143,7 +8144,7 @@ PrefabInstance:
     - target: {fileID: 535787684887862686, guid: 33474e44ccc335e49b18193327a9a608,
         type: 3}
       propertyPath: m_RootOrder
-      value: 13
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 535787684887862686, guid: 33474e44ccc335e49b18193327a9a608,
         type: 3}
@@ -8314,7 +8315,7 @@ PrefabInstance:
     - target: {fileID: 535787684887862686, guid: 33474e44ccc335e49b18193327a9a608,
         type: 3}
       propertyPath: m_RootOrder
-      value: 11
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 535787684887862686, guid: 33474e44ccc335e49b18193327a9a608,
         type: 3}
@@ -9008,7 +9009,7 @@ PrefabInstance:
     - target: {fileID: 535787686519203770, guid: 33474e44ccc335e49b18193327a9a608,
         type: 3}
       propertyPath: m_text
-      value: "Razumijem pri\u010Du u potpunosti."
+      value: "Hmm, sla\u017Eem se s Anom."
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 33474e44ccc335e49b18193327a9a608, type: 3}
@@ -12732,7 +12733,7 @@ PrefabInstance:
     - target: {fileID: 535787684887862686, guid: 33474e44ccc335e49b18193327a9a608,
         type: 3}
       propertyPath: m_RootOrder
-      value: 12
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 535787684887862686, guid: 33474e44ccc335e49b18193327a9a608,
         type: 3}
