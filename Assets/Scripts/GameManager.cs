@@ -63,7 +63,7 @@ public class GameManager : MonoBehaviour
             lastButton.DisableHighlight();
         }
         lastButton = button;
-        lastButton.EnableHighlight();
+        // lastButton.EnableHighlight();
     }
 
 }

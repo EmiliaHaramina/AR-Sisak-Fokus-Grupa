@@ -35,6 +35,7 @@ public class ButtonScript : MonoBehaviour
     public void SetLastButton()
     {
         gameManager.SetLastButton(this);
+        EnableHighlight();
     }
 
     public void HideLastDialogue()
@@ -49,14 +50,12 @@ public class ButtonScript : MonoBehaviour
 
     public void DisableHighlight()
     {
-        Debug.Log("Hi");
-        this.gameObject.transform.GetChild(0).gameObject.GetComponent<Text>().fontStyle = FontStyle.Normal;
+        this.gameObject.transform.GetChild(0).gameObject.GetComponent<TMPro.TextMeshProUGUI>().fontStyle = TMPro.FontStyles.Normal;
     }
 
     public void EnableHighlight()
     {
-        Debug.Log("Bye");
-        this.gameObject.transform.GetChild(0).gameObject.GetComponent<Text>().fontStyle = FontStyle.Bold;
+        this.gameObject.transform.GetChild(0).gameObject.GetComponent<TMPro.TextMeshProUGUI>().fontStyle = TMPro.FontStyles.Bold;
     }
 
 }
