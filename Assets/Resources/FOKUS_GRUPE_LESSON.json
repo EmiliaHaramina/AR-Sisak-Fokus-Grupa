@@ -1,0 +1,32 @@
+{
+  "Lesson": 5,
+  "LessonElements": [
+    {
+      "LessonText": "Testiranje korisničkog iskustva u fazi predprodukcije videoigara može biti provedeno na različite načine, kao što su upitnici, provođenje intervjua ili metoda fokus grupa."
+    },
+    {
+      "LessonText": "Metoda fokus grupa je metoda testiranja usmjerena krajnjim korisnicima. Fokus grupa (engl. focus group) je skupina ljudi (obično 5-10 osoba) okupljena kako bi sudjelovala u raspravi o proizvodu (u ovom slučaju o igri) u fazi predprodukcije. Fokus grupe se uglavnom provode tijekom faze razvoja koncepta videoigre, kako bi dizajnerima pomogle da što ranije odrede ključne elemente vezane uz koncept igre, kao što su umjetnički stil, narativ, mehanike i dizajn sučelja."
+    },
+    {
+      "LessonText": "U fokus grupi sudjeluju:"
+    },
+    {
+      "LessonText": "   - odabrani sudionici: bitno je odabrati osobe iz ciljane populacije, odnosno igrače kojima je igra namijenjena (npr. igrači koji igraju određeni žanr, igrači određene demografije),"
+    },
+    {
+      "LessonText": "   - moderator: odnosno istraživač koji usmjerava raspravu i postavlja pitanja,"
+    },
+    {
+      "LessonText": "   - zapisničar: osoba koja piše bilješke."
+    },
+    {
+      "LessonText": "Prije početka rasprave, moderator priprema specifične teme o kojima bi grupa trebala diskutirati te priprema okvirni vremenski raspored u kojem određuje koliko bi vremena grupa trebala posvetiti svakoj temi. Riječ je samo o okvirnom rasporedu jer je dinamika grupne rasprave nepredvidiva – može doći do otvaranja novih tema ili potrebe da se nekoj temi posveti više vremena nego što je predviđeno. Prirodni tijek rasprave može također dovesti do toga da se o ciljanim temama raspravlja drugačijim redoslijedom od onog predviđenog u moderatorovom rasporedu. Ponekad i sami sudionici preuzmu dio inicijative u vođenju diskusije. Moderatorova je uloga da pokuša taktično odvratiti raspravu od tema koje nisu u fokusu rasprave."
+    },
+    {
+      "LessonText": "Fokus grupe općenito ne traju dulje od 90 minuta kako ne bi postale previše zamorne za sudionike. Bitno je grupnu raspravu održati u ugodnoj prostoriji i osigurati vizualne materijale koji će se koristiti u raspravi (skice idejnog dizajna videoigre, karte snimanja, video isječke, itd.). Materijali se mogu pokazati sudionicima i prije provedbe fokus grupe, kako bi ih mogli na miru i samostalno proučiti. Ako im se materijali prikazuju na početku ili tijekom grupne rasprave, poželjno je dopustiti kratko vrijeme da svatko individualno prouči materijale kako bi sudionici stvorili neko svoje mišljenje prije grupne rasprave."
+    },
+    {
+      "LessonText": "Na temelju transkripta snimke rasprave ili zapisničarevih bilješki, provodi se daljnja analiza rasprave. Radi se primarno o prikupljanju kvalitativnih podataka koji se obično analiziraju tematski. Kvalitativnom analizom organiziramo i analiziramo povratne informacije ispitanika u smislu tema o kojima se pričalo, iznesenih ideja, koncepta, često korištenih riječi i sl. Korisno je dijelove transkripta označiti (`kodirati`) ključnim riječima koje označavaju teme rasprave. Time se može pratiti što je sve rečeno vezano uz određenu temu te koliko često je nešto rečeno, što uveliko pomaže kod organizacije podataka i određivanja zaključaka. Dijelovi rasprave se time mogu označiti prema tome što se igračima svidjelo (pozitivni aspekti), što im se nije svidjelo (negativni aspekti) te koje su predložene ideje za poboljšanje. Izvještaj nakon održane fokus grupe je obično pisani dokument koji na strukturirani način prikazuje ključne zaključke vezane uz postavljena pitanja ili teme rasprave."
+    }
+  ]
+}

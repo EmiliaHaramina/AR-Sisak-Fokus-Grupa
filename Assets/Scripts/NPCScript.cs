@@ -50,6 +50,7 @@ public class NPCScript : MonoBehaviour
                 if(this.transform.name == hit.transform.name)
                 {
                     int qNum = gameManager.GetComponent<GameManager>().getQuestionNumber();
+                    Debug.Log(qNum);
 
                     if (qNum != 0)
                     {
@@ -60,7 +61,7 @@ public class NPCScript : MonoBehaviour
                     }
                 }
             }
-        }
-        */
+        } */
+        
     }
 }

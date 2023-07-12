@@ -1,0 +1,173 @@
+{
+  "Lesson": 5,
+  "Questions": [
+    {
+      "QuestionText": "Metoda fokus grupe najčešće se koristi u:",
+      "Answers": [
+        {
+          "AnswerText": "Svim fazama razvoja podjednako",
+          "IsCorrect": false
+        },
+        {
+          "AnswerText": "Fazi postprodukcije",
+          "IsCorrect": false
+        },
+        {
+          "AnswerText": "Fazi produkcije",
+          "IsCorrect": false
+        },
+        {
+          "AnswerText": "Fazi pretprodukcije",
+          "IsCorrect": true
+        }
+      ]
+    },
+    {
+      "QuestionText": "Metodom fokus grupe najčešće testiramo:",
+      "Answers": [
+        {
+          "AnswerText": "Osnovni koncept igre",
+          "IsCorrect": true
+        },
+        {
+          "AnswerText": "Rani prototip igre",
+          "IsCorrect": false
+        },
+        {
+          "AnswerText": "Alfa verziju igre",
+          "IsCorrect": false
+        },
+        {
+          "AnswerText": "Beta verziju igre",
+          "IsCorrect": false
+        }
+      ]
+    },
+    {
+      "QuestionText": "Fokus grupa obično se sastoji od:",
+      "Answers": [
+        {
+          "AnswerText": "1-2 osobe",
+          "IsCorrect": false
+        },
+        {
+          "AnswerText": "3-4 osobe",
+          "IsCorrect": false
+        },
+        {
+          "AnswerText": "5-10 osoba",
+          "IsCorrect": true
+        },
+        {
+          "AnswerText": "15-20 osoba",
+          "IsCorrect": false
+        }
+      ]
+    },
+    {
+      "QuestionText": "Uloge u fokus grupi su sljedeće:",
+      "Answers": [
+        {
+          "AnswerText": "Moderator, zapisničar, sudionici fokus grupe",
+          "IsCorrect": true
+        },
+        {
+          "AnswerText": "Voditelj, sudionici fokus grupe",
+          "IsCorrect": false
+        },
+        {
+          "AnswerText": "Administrator, moderator, sudionici fokus grupe",
+          "IsCorrect": false
+        },
+        {
+          "AnswerText": "Zapisničar, sudionici fokus grupe",
+          "IsCorrect": false
+        }
+      ]
+    },
+    {
+      "QuestionText": "Rasprava fokus grupe obično traje:",
+      "Answers": [
+        {
+          "AnswerText": "10-20 minuta",
+          "IsCorrect": false
+        },
+        {
+          "AnswerText": "Do 90 minuta",
+          "IsCorrect": true
+        },
+        {
+          "AnswerText": "Do 120 minuta",
+          "IsCorrect": false
+        },
+        {
+          "AnswerText": "Nekoliko sati",
+          "IsCorrect": false
+        }
+      ]
+    },
+    {
+      "QuestionText": "Odaberite točnu izjavu.",
+      "Answers": [
+        {
+          "AnswerText": "Fokus grupa je metoda usmjerena krajnjim korisnicima, a njome se prikupljaju kvantitativni podaci.",
+          "IsCorrect": false
+        },
+        {
+          "AnswerText": "Fokus grupa je metoda usmjerena krajnjim korisnicima, a njome se prikupljaju kvalitativni podaci.",
+          "IsCorrect": true
+        },
+        {
+          "AnswerText": "Fokus grupa je metoda usmjerena stručnjacima, a njome se prikupljaju kvantitativni podaci.",
+          "IsCorrect": false
+        },
+        {
+          "AnswerText": "Fokus grupa je metoda usmjerena stručnjacima, a njome se prikupljaju kvalitativni podaci.",
+          "IsCorrect": false
+        }
+      ]
+    },
+    {
+      "QuestionText": "Odaberite netočnu izjavu.",
+      "Answers": [
+        {
+          "AnswerText": "Moderatorova je uloga da pokuša taktično odvratiti raspravu od tema koje nisu u fokusu rasprave.",
+          "IsCorrect": false
+        },
+        {
+          "AnswerText": "Planirani raspored rasprave može se promijeniti ako rasprava krene drugim tijekom.",
+          "IsCorrect": false
+        },
+        {
+          "AnswerText": "Ako neki od sudionika fokus grupe preuzme vođenje rasprave i ona promijeni tijek, moderator ne bi smio intervenirati.",
+          "IsCorrect": true
+        },
+        {
+          "AnswerText": "Ponekad i sami sudionici preuzmu dio inicijative u vođenju rasprave.",
+          "IsCorrect": false
+        }
+      ]
+    },
+    {
+      "QuestionText": "Odaberite netočnu izjavu.",
+      "Answers": [
+        {
+          "AnswerText": "Materijali poput idejnog dizajna videoigre ne smiju se pokazati sudionicima prije održavanja fokus grupe.",
+          "IsCorrect": true
+        },
+        {
+          "AnswerText": "Materijali poput idejnog dizajna videoigre mogu se pokazati sudionicima prije održavanja fokus grupe.",
+          "IsCorrect": false
+        },
+        {
+          "AnswerText": "Materijali poput idejnog dizajna videoigre mogu se prvi puta pokazati sudionicima tijekom održavanja fokus grupe.",
+          "IsCorrect": false
+        },
+        {
+          "AnswerText": "Materijale poput idejnog dizajna videoigre svakako treba pokazati sudionicima fokus grupe.",
+          "IsCorrect": false
+        }
+      ]
+    }
+  ]
+}
