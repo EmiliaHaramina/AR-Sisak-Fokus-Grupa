@@ -9,12 +9,12 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: -2067402452, guid: bab6fa851cf5a1a4bba3cec5f191cb8e, type: 3}
+  m_Script: {fileID: -2067402452, guid: 1e108ae5f2133934f948edded555f03e, type: 3}
   m_Name: VuforiaConfiguration
   m_EditorClassIdentifier: 
   vuforia:
-    vuforiaLicenseKey: AfdoSWH/////AAABmSNEy0tPMUKFjw5t+0UiOQg1v4cpl7eEOAmzGrD9GiwQFvBo3pjjTSttJ/YuxNMkK6cnivrip+NA+TUwdkiZnF8yCOU+7V3WX7oul6xPGst6llhQvtIJ+Ao9DB4lYAz7P2ci42kmTMt/rxUb2IDgBQ2OZ29iKYSsOEgbRwOWhxdMFWPAMXq+JwvfMKhqtUj59/zkXJ/BfCoEVXyRel3b+Mer9TIXmQRrmQ7AABiykjgGSv03IZw+eN8nkqFoZw4mOWM/WeScvyp2NdokXJ8p9RQWab9nzHkjeJU1pC0aVk6NlJrZyZ0bm9z092pMrX0JQDkD274p0GRD3hWbtMqdNo9f8Aa6YBEAONMX4gEGL945
-    ufoLicenseKey: QVNNN093ei8vLy8vQUFBQUtIUi9wYmZZVkVadnNPb2FVUDhTNFNNNkdWUmJMZEVIWUcxL09yczM2NjZxK3lsTk05SlVDa0drNnZDMEpBWVNEQ3JtN2d0ZWs3NkZTaVQxSFZ6Yjl2QnZjV09XelA4eFZCTG1LMmFBUDJ0QVR4UmYrUm5kR1YvZUp6ZnprNjFtdTV6NURINjFrVHhIRlNPZlYxKytMNmtVbHpoa2FFdzd5ZFhaZ2hxd0VOSTlpUElENXJBYWpTckdiajA5Wk1mVWFBUlZZNkVyVVFHbCtBd0h3YjlQTXEvVTVDaXdGUnVsV2duN0FVUWpKaXhERkFxTFByYXg0d2VDNEVJNmxQTmRISjBLRWp1VjVFdmVXZTdDbVV5UHRVaWlIL2NxNWo2T2NkMVU2dTkwaE9NZTY0YTFhMyszaFZXclNoSGpCR0FKeFZ5YWlkbWFYeDlQdkRud1JBd0VQVnN2WlJza3lsM0dWWjBXQzBLTGF3Z2s=
+    vuforiaLicenseKey: AbsBgsP/////AAABmSvoh6Y2CUbVmDMDtL1CmQuNLwZ+PewAwTsfkwFH7qklktqBOhsHYgsu3Z4BXexXCIO76BbqEwZfPI1spdtsQBnGsdSAnvfgw2NcbNQMeQZYXA+yj5m7BFy28r7E0C4qx18ie+MPEZhh9av1RXcNB/lJf9jhpWO8s8uMV27G7/nK7QQK+5uNnj4/FNctFHovyowcGj+UMfBAn7xztbELQv6G+hD3PAniTGRlMTd2HT/KW0oNhPZHPXAASHwKGkSz6GQQVx+EiBmgzCwcoOKCNME8S2Hz4LFd2z53aA9XdVdGvdx8Ex6YldrAenvpHHC7fNjUfNN8zTGxaS4H1pxrTKXZoZW/EA1BLC9yoCcV54J1
+    ufoLicenseKey: QVhiM0Y1Ly8vLy8vQUFBQUtPbnFIeHJFSGs1N3VrMlg4U050eVBzK2pkOFZxMDhrazlwYjBsYS9aZUIxQlV1ckZWcWt0ZllSQWpnT2tIRlY2VzdOMDRTRjNYRUhmbTF5L1BnYlB4eWdHWEF6RUNheXowc3dyNVNYa2ozdERuRjhka1FpOHRscHdkMDcrcEJEY1FjTjNJcUM1bEgwOTYzQkdZdjRsQStRb0hSQU9nRGthelp5TlY0WHVwWU9EaE05NWw5bXAzbnBDMjM5MWZBWXBFdEdiL2loTDNab3N4b25ZblhjK1JtSS9wLzRoTDIwVGhmTXR6WFJNYkpUTXZLZzJoQ0N0TEJXNEptZ0pSOUtSdStzQWM3QjVNOWFFMGVHQ1dUT1VRSUUweEpiZC9ZL2cvS29iNDhBRXdQOGFwbWR5NmRWU0FHU2psVzRZY2FEU2Zud3J1ZHhucVNmSUZiajNTUnIzM0lKVlFIaW1rL0oyOGNFeDdyekcySXg=
     delayedInitialization: 0
     cameraFocusModeSetting: 2
     cameraDeviceModeSetting: -1
@@ -24,7 +24,7 @@ MonoBehaviour:
     shareRecordingsInITunes: 0
     logLevel: 0
     version: 10.10.2
-    eulaAcceptedVersions: '{"Values":["","0.0","10.7","8.5","8.6","8.1","9.0","7.2","7.5","7.1","8.0","8.3","7.7","7.9","8.2","9.6","9.7","9.8","10.1","10.3","10.4","10.5","10.10"]}'
+    eulaAcceptedVersions: '{"Values":["10.7","8.5","8.1","8.3","0.0","8.6","9.0","7.2","7.5","7.1","8.0","7.7","7.9","8.2","9.6","9.7","9.8","10.1","10.3","10.4","10.5","10.10"]}'
   database:
     disableModelExtraction: 0
   shaders:
@@ -38,7 +38,7 @@ MonoBehaviour:
   deviceTracker:
     autoStartTracker: 1
     arcoreRequirement: 1
-    autoImportArcore: 1
+    autoImportArcore: 0
     thirdPartyARCoreClientDetected: 0
   playmode:
     mSequencePath: 
