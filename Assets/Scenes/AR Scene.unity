@@ -6400,8 +6400,8 @@ PrefabInstance:
     - target: {fileID: 2313670430547715234, guid: a2b89fa3933b4354a9fa8bb831f083e7,
         type: 3}
       propertyPath: _contentName
-      value: Ispitajte fokus grupu odabirom pitanja te klikom na svakog sudionika
-        kako biste vidjeli njihov odgovor.
+      value: "Ispitajte mi\u0161ljenje sudionika o odigranoj pokaznoj igri odabirom
+        pitanja te kliknite na svakog sudionika kako biste vidjeli njihov odgovor."
       objectReference: {fileID: 0}
     - target: {fileID: 2313670431610504968, guid: a2b89fa3933b4354a9fa8bb831f083e7,
         type: 3}
@@ -45238,14 +45238,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   PreviewVisible: 1
   RuntimeOcclusion: 0
-  mTrackableName: afr-154-magic-missile
+  mTrackableName: markersisak1686999092
   mInitializedInEditor: 1
   mDataSetPath: Vuforia/ARudzbenik.xml
-  mAspectRatio: 1.3928571
+  mAspectRatio: 0.98543686
   mImageTargetType: 3
-  mWidth: 0.14358975
-  mHeight: 0.2
-  mRuntimeTexture: {fileID: 2800000, guid: 4ad5c117ee6f10844b6c1ba7d627e81f, type: 3}
+  mWidth: 0.2
+  mHeight: 0.19708738
+  mRuntimeTexture: {fileID: 2800000, guid: 8d776bef9d3193845b09c3e5cab486fc, type: 3}
   mMotionHint: 1
   mTrackingOptimization: 0
   mTrackingOptimizationNeedsUpgrade: 0
@@ -45299,7 +45299,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   mObserverBehaviour: {fileID: 8600013619832249610}
   mHiddenRoot: {fileID: 0}
-  mTargetName: afr-154-magic-missile
+  mTargetName: markersisak1686999092
   mDatasetName: Vuforia/ARudzbenik.xml
   mCastedBehaviour: {fileID: 8600013619832249610}
   mMeshFilter: {fileID: 0}
